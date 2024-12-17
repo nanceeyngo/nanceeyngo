@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ngozi
 - 👀 I’m interested in coding and research
-- 🌱 I’m currently learning JavaScript and Reactjs
-- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript and React projects
+- 🌱 I’m a JavaScript and Reactjs Frontend Developer, and I'm currently learning Flutter
+- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, React and Flutter projects
 - 📫 How to reach me ... My linkedin profile, linkedin.com/in/ngozi-philip-21831a274
 
 -
